@@ -2,5 +2,7 @@
   "name": "github-info-tools",
   "version": "1.0.0",
   "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "chrome-types": "^0.1.299"
   }
 }
