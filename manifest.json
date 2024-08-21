@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "github-info-tools",
+  "description": "Set of tools for your followed GitHub Repos, like, bugs notification, pull requests, first issues and more.",
+  "version": "0.0.1",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+//    "service_worker": "background.js",
+    "type": "module"
+
+  },
+  "action": {
+    "default_popup": "listFollowings.html"
+  }
+}
