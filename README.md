@@ -11,6 +11,6 @@ API consumed for social network actions
 
 3- Follow convesations treads about bugs and other stuffs.
 
-GitHub API Considerations:
- 
+
+GitHub API Considerations: 
 https://github.com/octokit/octokit.js
