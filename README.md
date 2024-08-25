@@ -1,4 +1,5 @@
-# github-info-tools
+# github-social-tools
+
 Set of tools for your followed GitHub Repos, like, bugs notificaton, pull requests, first issues and more.
 The main purposes is extend GitHub to build a social network around hes API.
 
