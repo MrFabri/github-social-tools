@@ -10,3 +10,7 @@ API consumed for social network actions
 2- Get Notifications about followed repos.
 
 3- Follow convesations treads about bugs and other stuffs.
+
+GitHub API Considerations:
+ 
+https://github.com/octokit/octokit.js
